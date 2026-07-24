@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: portfolio2-website
+    env: static
+    buildCommand: ""
+    staticPublishPath: ./
